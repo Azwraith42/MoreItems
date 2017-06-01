@@ -1,0 +1,17 @@
+<ItemPools>
+	<Pool Name="treasure">
+		<Item Name="Green Candle" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="shop">
+		<Item Name="Green Candle" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item name="Fresh Water" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item name="Mom's &quot;Apple&quot; Juice" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item name="Glucose" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item name="Liquid Clover" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item name="Fizzy Bubbly" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item name="It's Moving?" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="goldenChest">
+		<Item Name="Green Candle" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+	</Pool>
+</ItemPools>

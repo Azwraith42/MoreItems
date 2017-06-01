@@ -1,0 +1,14 @@
+<items gfxroot="gfx/items/" version="1">
+	
+	<!-- Active Items -->
+	<active name="Green Candle" description="It burns" gfx="GreenCandle.png" maxcharges="4" />
+	
+	<!-- passive Items -->
+	<passive cache="all" name="Fresh Water" description="I feel stronger!" gfx="BloodBag_Blue.png" maxhearts="2" soulhearts="2" />
+	<passive cache="damage firedelay" name="Mom's &quot;Apple&quot; Juice" description="Quit moving you" gfx="BloodBag_Yellow.png" blackhearts="2" />
+	<passive cache="speed" name="Glucose" description="I prefer Fructose" gfx="BloodBag_White.png" />
+	<passive cache="luck" name="Liquid Clover" description="4-Leaf Blended" gfx="BloodBag_Green.png" />
+	<passive cache="flying" name="Fizzy Bubbly" description="It looks... pretty good" gfx="BloodBag_Orange.png" />
+	<passive cache="damage" name="It's Moving?" description="It might be alive" gfx="BloodBag_Purple.png" />
+	
+</items>
